@@ -1,0 +1,12 @@
+.qwerty{
+	border: 6px solid teal;
+}
+.line{
+
+	border-left: 2px solid #ccc;
+	margin-left: 20px;
+	padding-left: 10px
+}
+.parallax-container{
+  height: 300px;
+}
